@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ysd3c3/0i49gyRfnrNBkD/ittoMTCM1Ci+ZInuqdgFCcgDcJueeg4biCpsyGe4cnjcBREkVXp/S+lwQZ3eGGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanne\\Documents\\GitHub\\2020-sep-exercises-a03-tronnerbonner\\A14-ClubActivities\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tanne\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

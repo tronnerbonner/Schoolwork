@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigPrintWebApp", "BigPrintWebApp\BigPrintWebApp.csproj", "{BAC88E2E-5FC0-4C78-AC63-59D4BDDF3431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTPSSystem.NJack", "HTPSSystem.NJack\HTPSSystem.NJack.csproj", "{B2C503B2-282A-40C1-8B78-B4296B158A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC88E2E-5FC0-4C78-AC63-59D4BDDF3431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC88E2E-5FC0-4C78-AC63-59D4BDDF3431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC88E2E-5FC0-4C78-AC63-59D4BDDF3431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC88E2E-5FC0-4C78-AC63-59D4BDDF3431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C503B2-282A-40C1-8B78-B4296B158A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C503B2-282A-40C1-8B78-B4296B158A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C503B2-282A-40C1-8B78-B4296B158A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C503B2-282A-40C1-8B78-B4296B158A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124088AA-6D23-490E-B91D-BEC78C155C42}
+	EndGlobalSection
+EndGlobal

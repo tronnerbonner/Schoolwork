@@ -1,0 +1,13 @@
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\HTPSSystem.NJack.dll.config
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\HTPSSystem.NJack.dll
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\HTPSSystem.NJack.pdb
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\EntityFramework.dll
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\EntityFramework.xml
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\obj\Debug\HTPSSystem.NJack.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\obj\Debug\HTPSSystem.NJack.csproj.CopyComplete
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\obj\Debug\HTPSSystem.NJack.dll
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\obj\Debug\HTPSSystem.NJack.pdb
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\bin\Debug\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\tanne\Documents\GitHub\2020-sep-exercises-a03-tronnerbonner\HT Product Services\HTPSSystem.NJack\obj\Debug\HTPSSystem.NJack.csprojAssemblyReference.cache

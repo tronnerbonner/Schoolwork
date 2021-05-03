@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CRUD.DAL.StartedContext">
+    <Position X="8.5" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\StartedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRUD.Entities.CampusVenues">
+    <Position X="4.75" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\CampusVenues.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRUD.Entities.ClubActivities">
+    <Position X="0.5" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgQAAgAAAAAAIABAQAEAAAIAAEAAAAAEAAAAA=</HashCode>
+      <FileName>Entities\ClubActivities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRUD.Entities.Clubs">
+    <Position X="4.75" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAggAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Clubs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
