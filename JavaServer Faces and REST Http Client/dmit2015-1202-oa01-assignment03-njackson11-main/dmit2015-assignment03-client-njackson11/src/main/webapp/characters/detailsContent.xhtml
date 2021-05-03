@@ -1,0 +1,50 @@
+<ui:composition
+        xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+        xmlns:h="http://xmlns.jcp.org/jsf/html"
+        xmlns:f="http://xmlns.jcp.org/jsf/core"
+        xmlns:c="http://xmlns.jcp.org/jsp/jstl/core"
+        xmlns:fn="http://xmlns.jcp.org/jsp/jstl/functions"
+        xmlns:jsf="http://xmlns.jcp.org/jsf"
+        xmlns:pt="http://xmlns.jcp.org/jsf/passthrough"
+        xmlns:o="http://omnifaces.org/ui"
+        xmlns:of="http://omnifaces.org/functions"
+        xmlns:p="http://primefaces.org/ui"
+        xmlns:b="http://bootsfaces.net/ui"
+>
+
+    <b:panel title="Character Details"
+             collapsible="false"
+    >
+        <b:panelGrid columns="2" colSpans="2,10">
+            <h:panelGroup>
+                <strong><h:outputText value="ID"/></strong>
+            </h:panelGroup>
+            <h:outputText value="#{currentCharacterEditController.editId}"/>
+
+            <h:panelGroup>
+                <strong><h:outputText value="Name"/></strong>
+            </h:panelGroup>
+            <h:outputText value="#{currentCharacterEditController.existingCharacter.name}"/>
+
+            <h:panelGroup>
+                <strong><h:outputText value="Health"/></strong>
+            </h:panelGroup>
+            <h:outputText value="#{currentCharacterEditController.existingCharacter.health}"/>
+
+            <h:panelGroup>
+                <strong><h:outputText value="Fate"/></strong>
+            </h:panelGroup>
+            <h:outputText value="#{currentCharacterEditController.existingCharacter.fate}"/>
+
+            <h:panelGroup>
+                <strong><h:outputText value="Version Added"/></strong>
+            </h:panelGroup>
+            <h:outputText value="#{currentCharacterEditController.existingCharacter.versionAdded}"/>
+
+        </b:panelGrid>
+
+    </b:panel>
+
+</ui:composition>
+
