@@ -1,0 +1,13 @@
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.dll.config
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.dll
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\WorkScheduleSystem.pdb
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.dll
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.xml
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.csproj.CopyComplete
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.dll
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.pdb
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\obj\Debug\WorkScheduleSystem.csprojAssemblyReference.cache
+C:\Users\tanne\Documents\GitHub\2021-jan-exercises-a01-tronnerbonner\WorkScheduleSolution\WorkScheduleSystem\bin\Debug\FreeCode.Exceptions.dll
